@@ -1,4 +1,4 @@
-abc
+mn,nx,,n,bc
 def
 
 modify for 11Au
